@@ -16,7 +16,7 @@ namespace TaNetTools.ServerSample
             server.ClientDisconnected += Server_ClientDisconnected;
             server.NewDataReceived += Server_NewDataReceived;
 
-            server.Start("127.0.0.1", 40000);
+            server.Start("0.0.0.0", 40000);
 
             Console.WriteLine("Press any key top stop TCP server.");
             Console.ReadLine();

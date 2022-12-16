@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaNetTools", "TaNetTools\TaNetTools.csproj", "{8E68D4FF-FAF4-4F77-BA51-1B777D1D649F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaNetTools", "TaNetTools\TaNetTools.csproj", "{8E68D4FF-FAF4-4F77-BA51-1B777D1D649F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaNetTools.ServerSample", "TaNetTools.ServerSample\TaNetTools.ServerSample.csproj", "{F9FAEDBA-DC23-4838-B70D-B4CFA4246DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaNetTools.ServerSample", "TaNetTools.ServerSample\TaNetTools.ServerSample.csproj", "{F9FAEDBA-DC23-4838-B70D-B4CFA4246DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaNetTools.ClientSample", "TaNetTools.ClientSample\TaNetTools.ClientSample.csproj", "{FE5A3BD9-9C92-422F-82FD-3DC6CCF8A529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaNetTools.ClientSample", "TaNetTools.ClientSample\TaNetTools.ClientSample.csproj", "{FE5A3BD9-9C92-422F-82FD-3DC6CCF8A529}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
