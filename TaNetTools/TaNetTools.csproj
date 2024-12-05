@@ -1,14 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <AssemblyVersion>1.0.8.0</AssemblyVersion>
-    <FileVersion>1.0.8.0</FileVersion>
+    <TargetFramework>net9.0</TargetFramework>
+    <AssemblyVersion>1.0.9.0</AssemblyVersion>
+    <FileVersion>1.0.9.0</FileVersion>
     <Copyright>alireza tabesh</Copyright>
     <PackageProjectUrl>https://github.com/alirezatabesh/TaNetTools</PackageProjectUrl>
-    <PackageReleaseNotes>update .net version to 8</PackageReleaseNotes>
+    <PackageReleaseNotes>update .net version to 9</PackageReleaseNotes>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0.8</Version>
+    <Version>1.0.0.9</Version>
     <Description>C# dll for create tcp server and client</Description>
     <GenerateDocumentationFile>False</GenerateDocumentationFile>
   </PropertyGroup>
